@@ -1,0 +1,1 @@
+# manifold-optimization-book
