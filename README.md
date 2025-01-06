@@ -1,7 +1,7 @@
 # manifold-optimization-book
 佐藤寛之著『[多様体上の最適化理論](https://www.ohmsha.co.jp/book/9784274231186/)』（オーム社，2024）のサポートページです．
 
-[正誤表](errata.pdf)（2024年12月27日更新）
+[正誤表](errata.pdf)（2025年1月6日更新）
 
 [補足資料](supplementary.pdf) （2024年1月25日更新）  
 多様体上の最適化のための MATLAB ライブラリ [Manopt](https://www.manopt.org/)（Nicolas Boumal 氏と Bamdev Mishra 氏による開発）の解説と，本書の数値計算結果についての補足事項を記述しています．
